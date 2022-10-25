@@ -1,6 +1,17 @@
 Welcome to Trendpost, a RESTful API that finds images relevant to real-time trending Instagram hashtags. This API was made with Node.js and Express.j, and it returns a JSON text of images that match a trending hashtag on Instagram. If used properly, this API can help you find pictures to make posts that become trending. 
 
 
+Video Demonstration:
+
+
+
+
+
+
+https://user-images.githubusercontent.com/71115970/197683429-31b6d491-cb82-4102-a971-e2d36359c0ff.mp4
+
+
+
 Prerequisites
 
 This API uses two other APIs: 
@@ -51,4 +62,3 @@ Example:
 Click send and you should shortly recieve your response!
 
 
-Video Demonstration:
