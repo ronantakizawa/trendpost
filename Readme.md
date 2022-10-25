@@ -20,7 +20,7 @@ Clone the repo
 git clone https://github.com/ronantakizawa/trendpost
 
 Install NPM packages:
-'''
+```
 npm install
 npm install express
 npm install nodemon
