@@ -14,10 +14,10 @@ Before starting, create an account with these APIs and get their API keys.
 
 Packages:
 
-npm install npm@latest -g
-Installation
-Clone the repo
+Clone the repo:
+```
 git clone https://github.com/ronantakizawa/trendpost
+```
 
 Install NPM packages:
 ```
